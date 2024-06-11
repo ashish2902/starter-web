@@ -11,3 +11,6 @@ Sample website with plenty of files for demos
 This is simple project can be deployed on any webserver/locally
 
 ## Testing
+
+##Copyright
+Copyright Git.Traning
