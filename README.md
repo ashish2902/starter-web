@@ -17,3 +17,6 @@ Copyright Git.Traning
 
 ##Test Diff FF
 Diff FF
+
+#Comments
+Please fork the repo before doing changes
