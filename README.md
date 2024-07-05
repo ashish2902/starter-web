@@ -19,4 +19,4 @@ Copyright Git.Traning
 Diff FF
 
 #Comments
-Please fork the repo before doing changes
+Change commit for rebase
