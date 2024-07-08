@@ -12,4 +12,4 @@ Please leave a review if you like this course
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery, Modernizr, Java
